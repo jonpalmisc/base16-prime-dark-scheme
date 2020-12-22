@@ -1,12 +1,10 @@
 --------------------------------------------------------------------------------
-                          Base16 GitHub Modern Scheme
+                          Base16 Prime Dark Scheme
 --------------------------------------------------------------------------------
 
-This is a Base16 adaptation of the GitHub theme for Visual Studio Code, which
-can be found here:
+This is a very loose Base16 adaptation of the GitHub theme for Visual Studio
+Code. [1] This theme uses colors from GitHub's Primer design system. [2]
 
-  https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
-
-Currently, only the dark variant of the theme is supported. If you want the
-light variant, feel free to open an issue or contact me.
+[1] https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+[2] https://primer.style/css/support/color-system
 
